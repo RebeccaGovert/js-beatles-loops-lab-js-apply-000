@@ -23,6 +23,8 @@ const facts = [
     return results;
   }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(x) {
+  var myarray = [];
+  do ()
   
 }
