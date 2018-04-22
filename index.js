@@ -25,6 +25,9 @@ const facts = [
 
 function iLoveTheBeatles(x) {
   var myarray = [];
-  do ()
+  do {
+    myarray.push("I love the Beatles!");
+  }
+  while (i)
   
 }
